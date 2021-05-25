@@ -1,5 +1,5 @@
 [package]
-name = "hydra-dx-math"
+name = "tetched-math"
 version = "1.0.0"
 authors = ['GalacticCouncil']
 edition = "2018"
